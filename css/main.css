@@ -42,3 +42,21 @@
 .navbar .menu li a:hover{
   border-bottom: 2px solid #000000;
 }
+
+/* footer */
+footer {
+  background-color: #feed00;
+  color: #000000;
+  height: 10vh;
+}
+
+footer p{
+  text-align: center;
+  line-height: 10vh;
+}
+
+footer p a {
+  text-decoration: none;
+  color: #feed00;
+  font-weight: bold;
+}
